@@ -15,9 +15,9 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class TestInvir_shortestTravelTime {
 	//路徑
-    private static final String NODES_FILE_PATH = "G:\\我的雲端硬碟\\NTPU\\KuWorkSpace\\UnmannedTaxi\\SimulationData\\coordinate_data.xlsx";
-    private static final String TAXIS_FILE_PATH = "G:\\我的雲端硬碟\\NTPU\\KuWorkSpace\\UnmannedTaxi\\SimulationData\\taxi_data.xlsx";
-    private static final String OUTPUT_FILE_PATH = "G:\\我的雲端硬碟\\NTPU\\KuWorkSpace\\UnmannedTaxi\\output\\case4\\4.5.600.xlsx";
+    private static final String NODES_FILE_PATH = "D:\\Java_project\\UnmannedTaxi\\SimulationData\\coordinate_data.xlsx";
+    private static final String TAXIS_FILE_PATH = "D:\\Java_project\\UnmannedTaxi\\SimulationData\\taxi_data.xlsx";
+    private static final String OUTPUT_FILE_PATH = "D:\\Java_project\\UnmannedTaxi\\output\\case4\\4.5.600.xlsx";
     private static final String OUTPUT_SHEET_NAME = "sheet1";
     
     //資料結構
