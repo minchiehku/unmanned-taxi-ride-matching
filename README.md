@@ -116,3 +116,5 @@ Event Class
 |                                                         | 4. Service Range: 10x10                                       |                                                             |
 
 
+## Experimental results
+![expeResults](pic/expResults.jpg)
